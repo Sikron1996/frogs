@@ -8,7 +8,7 @@
       "resource": "x402Cats NFT Mint",
       "description": "Mint unique pixel cat NFTs on Base blockchain. 5,555 total supply, max 20 per wallet. Each cat is a randomly generated pixel art with unique traits.",
       "mimeType": "application/json",
-      "payTo": "0x86F81966e14dA17193CC3F3d6903184730F36681",
+      "payTo": "0xF97a410f2f0b64Cb5820baD63d878c3A967235AA",
       "maxTimeoutSeconds": 300,
       "asset": "USDC",
       "outputSchema": {
